@@ -1,4 +1,4 @@
-## I ussed to be close sourced, untill source opened my sourcecode.
+## I used to be close-sourced, untill the source engine opened my sourcecode.
 what?
 
 I code mods, mainly for tf2 right now.
