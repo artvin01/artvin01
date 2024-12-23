@@ -1,16 +1,13 @@
-## Hi there 👋
+## I ussed to be close sourced, untill source opened my sourcecode.
+what?
 
-<!--
-**artvin01/artvin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code mods, mainly for tf2 right now.
+I like to create original content, i.e. my mods are basically games withing a game.
+Working alone isnt the most fun, usually like to have friends to do it with.
 
-Here are some ideas to get you started:
+I made made games such as:
+BVB (Private.)
+RPG Fortress.
+Zombie riot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I need a job pls hire me
