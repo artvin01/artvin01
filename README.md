@@ -9,5 +9,3 @@ I made made games such as:
 BVB (Private.)
 RPG Fortress.
 Zombie riot.
-
-I need a job pls hire me
