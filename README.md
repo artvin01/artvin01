@@ -1,5 +1,4 @@
-## I used to be close-sourced, untill the source engine opened my sourcecode.
-what?
+## Hi
 
 I code mods, mainly for tf2 right now.
 I like to create original content, i.e. my mods are basically games withing a game.
